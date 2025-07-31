@@ -103,24 +103,10 @@
   </li>
 
 ---
-
-  <li>
-    <b>Cloud Architect & DevOps Lead @ Globant (USA)</b><br>
-    Architected cloud solutions, accelerated innovation, and led global DevOps teams.
-  </li>
-
----
   
   <li>
-    <b>Cloud & DevOps Practice Lead @ Intergrupo</b><br>
-    Built high-performance teams and drove cloud automation for the banking, energy, and telecom sectors.
-  </li>
-
----
-  
-  <li>
-    <b>DevOps Engineer & Consultant</b><br>
-    Designed CI/CD, pioneered DevSecOps, and delivered mission-critical solutions.
+    <b>PGD - Senior DevOps Engineer</b><br>
+    As a Senior DevOps Engineer, I streamline development workflows, automate infrastructure, and ensure reliable, scalable deployments to empower engineering teams..
   </li>
 </ul>
 
@@ -132,7 +118,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarSegu&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarSegu&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MarSegu&theme=tokyo-night&hide_border=true" height="150"/>
 </p>
 
 ---
