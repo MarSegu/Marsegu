@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36B6F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mario+Segura;+Architect+%7C+Senior+Developer;Let%E2%80%99s+Automate+the+Future!" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://github.com/MarSegu/MarSegu/assets/MarSegu/cover-devops-animated.gif" alt="DevOps Animation" width="90%" />
-</p>
 
 ---
 
@@ -18,12 +15,7 @@
 
 ---
 
-<!-- About Me Section with Emojis and Animations -->
 <h2 align="center">✨ Who am I?</h2>
-
-<div align="center">
-  <img src="https://github.com/MarSegu/MarSegu/assets/MarSegu/tech-doodle-animated.gif" width="240" alt="Tech Doodle Animation"/>
-</div>
 
 <p align="center">
   <b>Senior DevOps Engineer & Cloud Architect</b> with 6+ years of experience.<br>
@@ -80,11 +72,61 @@
 ---
 
 <h2 align="center">💼 Professional Journey</h2>
-<p align="center">
-  <img src="https://github.com/MarSegu/MarSegu/assets/MarSegu/professional-journey-animated.gif" width="350" alt="Journey Animation"/>
-</p>
 
-<ul align="center">
+<ul>
+  <li><b>Software Development Engineer II @ CSG, Bogotá</b> <br>
+    <i>February 2022 – September 2024</i><br>
+    <ul>
+      <li>Transitioned to an English-speaking environment, collaborating with distributed teams across the USA, Canada, and India.</li>
+      <li>Developed serverless AWS Lambda functions in Python and Java for clients such as Cofiroute, Exact Sciences, and Chase, implementing API gateway design patterns.</li>
+      <li>Ensured robust functionality of Lambda functions by implementing unit tests with industry-standard frameworks for both Python and Java.</li>
+      <li>Successfully implemented AWS infrastructure using Terraform (IaC), following best DevOps practices.</li>
+      <li>Configured Azure DevOps Git Repositories and Pipelines for all Terraform and Lambda projects, facilitating team collaboration and scalability.</li>
+      <li>Created Azure Pipelines to enhance development and delivery timelines, ensuring end-to-end CI/CD processes.</li>
+      <li>Leveraged Kitewheel (CSG's proprietary graphical development tool) to craft data analytics solutions, significantly improving client business performance.</li>
+      <li>Produced comprehensive software documentation and provided expedited incident resolution to ensure continuous delivery.</li>
+      <li><b>Technologies:</b> Python, Java, JavaScript, AWS (Lambda, API Gateway, IAM, SQS, SNS, EC2, RDS, VPC, Cloudwatch, S3), Terraform, Azure DevOps, SQL, NoSQL, Git, SCRUM, Jira.</li>
+    </ul>
+  </li>
+
+  -----
+  
+  <li><b>Java PL Developer @ Algar Tech, Bogotá</b> <br>
+    <i>August 2021 – February 2022</i><br>
+    <ul>
+      <li>Engaged in Java software development aligned with client specifications for Claro.</li>
+      <li>Implemented web applications using Java 8+ and the Spring Boot framework.</li>
+      <li>Developed PL-SQL database resources and REST/SOAP services.</li>
+      <li>Performed rigorous unit testing, incident support, and meticulous software documentation.</li>
+      <li><b>Technologies:</b> Java (JSF 2.2-JPA), REST/SOAP, HTML, JavaScript, CSS, PL-SQL, Oracle WebLogic, TortoiseHG, KANBAN.</li>
+    </ul>
+  </li>
+  
+  -----
+  
+  <li><b>Pre-sales Engineer @ MTA DE COLOMBIA SAS, Bogotá</b> <br>
+    <i>July 2020 – May 2021</i><br>
+    <ul>
+      <li>Led secure C# application development for the pre-sales sector, focusing on best practices and SOLID principles.</li>
+      <li>Designed and implemented Microsoft SQL Server DB schemas, optimizing business operations.</li>
+      <li>Provided technical guidance to the commercial division, enhancing sales opportunities and boosting customer retention.</li>
+      <li><b>Technologies:</b> C#, HTML, JavaScript, CSS, Microsoft SQL Server, Git.</li>
+    </ul>
+  </li>
+
+  -----
+  
+  <li><b>Junior Development Analyst @ IOT TECNOLOGÍA, Bogotá</b> <br>
+    <i>July 2019 – December 2019</i><br>
+    <ul>
+      <li>Developed access management and product inventory Java desktop applications connected to Microsoft SQL Server.</li>
+      <li>Maintained and updated the company’s web platform with Java and modern frontend technologies.</li>
+      <li><b>Technologies:</b> Java, SQL, Glassfish, Git, GitHub.</li>
+    </ul>
+  </li>
+
+  -----
+  
   <li><b>Cloud Architect & DevOps Lead @ Globant (USA)</b><br>
     Architected cloud solutions, accelerated innovation, and led global DevOps teams.</li>
   <li><b>Cloud & DevOps Practice Lead @ Intergrupo</b><br>
@@ -105,9 +147,7 @@
 ---
 
 <h2 align="center">🌠 Fun Facts & Personal Touch</h2>
-<div align="center">
-  <img src="https://github.com/MarSegu/MarSegu/assets/MarSegu/fun-facts-animated.gif" width="160" alt="Fun Animation"/>
-</div>
+
 
 <ul>
   <li>⚡ Always automating, always mentoring.</li>
