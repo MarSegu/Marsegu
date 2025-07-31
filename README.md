@@ -78,9 +78,11 @@
 <ul style="list-style: disc; text-align: left; display: inline-block;">
 
   
-  <li>
-    <b>Software Development Engineer II @ CSG</b><br>
-    Mastered serverless architectures on AWS and drove automation in global, cross-functional teams.
+
+
+   <li>
+    <b>PGD - Senior DevOps Engineer</b><br>
+    As a Senior DevOps Engineer, I streamline development workflows, automate infrastructure, and ensure reliable, scalable deployments to empower engineering teams..
   </li>
   
   ---
@@ -107,8 +109,8 @@
 ---
   
   <li>
-    <b>PGD - Senior DevOps Engineer</b><br>
-    As a Senior DevOps Engineer, I streamline development workflows, automate infrastructure, and ensure reliable, scalable deployments to empower engineering teams..
+    <b>Software Development Engineer II @ CSG</b><br>
+    Mastered serverless architectures on AWS and drove automation in global, cross-functional teams.
   </li>
 </ul>
 
