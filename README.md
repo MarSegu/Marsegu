@@ -1,6 +1,6 @@
 <!-- Animated Header (SVG + Markdown Magic) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36B6F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mario+Segura;DevOps+%7C+Cloud+Architect+%7C+Senior+Developer;Let%E2%80%99s+Automate+the+Future!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36B6F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mario+Segura;+Architect+%7C+Senior+Developer;Let%E2%80%99s+Automate+the+Future!" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -49,35 +49,33 @@
 <h2 align="center">🏆 Certifications</h2>
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/users/mariosegura-1426/credentials/899e5c047f6c1b6" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-36B6F2?style=flat-square&logo=microsoftazure"/>
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-36B6F2?style=flat-square&logo=microsoftazure"/><br>
   </a>
+  <span><i>March 2025</i></span>
+</p>
+<p align="center">
   <a href="https://www.credly.com/badges/3bca51a6-a193-4752-bc47-5f7526199ec2/linked_in?t=sd4lr6" target="_blank">
-    <img src="https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate%202024-7B42BC?style=flat-square&logo=terraform"/>
+    <img src="https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate%202024-7B42BC?style=flat-square&logo=terraform"/><br> 
   </a>
+  <span><i>May 2024</i></span>
+</p>
+<p align="center">
   <a href="https://www.credly.com/badges/7e3af5b9-7c23-4886-991f-e00eb35ee173" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws"/>
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws"/><br>
   </a>
+  <span><i>September 2023</i></span>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/B2%20English%20Certification-Open%20English%20Academy-2E7D32?style=flat-square&logo=bookstack"/>
-  <br>
-  <span><b>B2 English Certification, Open English Academy</b><br>
-  <i>March 2022 — April 2023</i></span>
+  <img src="https://img.shields.io/badge/B2%20English%20Certification-Open%20English%20Academy-2E7D32?style=flat-square&logo=bookstack"/><br>
+  <span><i>March 2022 — April 2023</i></span>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Framework%20and%20SpringBoot-Udemy-3E8EDE?style=flat-square&logo=udemy"/>
-  <br>
-  <span><b>Spring Framework and SpringBoot, Udemy</b><br>
-  <i>January 2022</i></span>
+  <img src="https://img.shields.io/badge/Spring%20Framework%20and%20SpringBoot-Udemy-3E8EDE?style=flat-square&logo=udemy"/><br>
+  <span><i>January 2022</i></span>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Scrum%20Fundamentals-Agile%20Sprint-FFC107?style=flat-square&logo=scrumalliance"/>
-  <br>
-  <span><b>Scrum Fundamentals, Agile Sprint</b><br>
-  <i>June 2021</i></span>
+  <img src="https://img.shields.io/badge/Scrum%20Fundamentals-Agile%20Sprint-FFC107?style=flat-square&logo=scrumalliance"/><br>
+  <span><i>June 2021</i></span>
 </p>
 
 ---
@@ -137,8 +135,3 @@
 ---
 
 <p align="center"><i>“Automation is not just my job, it’s my craft.”</i></p>
-
-<!-- Animated Footer SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MarSegu/MarSegu/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation">
-</p>
