@@ -1,4 +1,3 @@
-<!-- Animated Header (SVG + Markdown Magic) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36B6F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mario+Segura;+Architect+%7C+Senior+Developer;Let%E2%80%99s+Automate+the+Future!" alt="Typing SVG">
 </p>
