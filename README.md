@@ -93,24 +93,26 @@
   </li>
 
 ---
-  
+
+   <li>
+    <b>Software Development Engineer II @ CSG</b><br>
+    Mastered serverless architectures on AWS and drove automation in global, cross-functional teams.
+  </li>
+ 
+
+---
+
   <li>
     <b>Pre-sales Engineer @ MTA DE COLOMBIA SAS</b><br>
     Engineered secure pre-sales apps and empowered business growth through technical expertise.
   </li>
 
+
 ---
-  
+
   <li>
     <b>Junior Development Analyst @ IOT TECNOLOGÍA</b><br>
     Developed and maintained inventory and access solutions using Java and SQL.
-  </li>
-
----
-  
-  <li>
-    <b>Software Development Engineer II @ CSG</b><br>
-    Mastered serverless architectures on AWS and drove automation in global, cross-functional teams.
   </li>
 </ul>
 
@@ -118,10 +120,6 @@
 
 ---
 
-  <li>
-    <b>Software Development Engineer II @ CSG</b><br>
-    Mastered serverless architectures on AWS and drove automation in global, cross-functional teams.
-  </li>
 
 <h2 align="center">📈 My GitHub at a Glance</h2>
 <p align="center">
