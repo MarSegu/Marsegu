@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-  <b>Senior DevOps Engineer & Cloud Architect</b> with 12+ years of experience.<br>
+  <b>Senior DevOps Engineer & Cloud Architect</b> with 6 years of experience.<br>
   I design, automate & operate cloud-native platforms, and enable teams to deliver at scale.<br>
   Passionate about innovation, mentorship, and elegant technical solutions.<br>
 </p>
