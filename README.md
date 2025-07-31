@@ -76,6 +76,8 @@
 <div align="center">
 
 <ul style="list-style: disc; text-align: left; display: inline-block;">
+
+  
   <li>
     <b>Software Development Engineer II @ CSG</b><br>
     Mastered serverless architectures on AWS and drove automation in global, cross-functional teams.
@@ -113,6 +115,11 @@
 </div>
 
 ---
+
+  <li>
+    <b>Software Development Engineer II @ CSG</b><br>
+    Mastered serverless architectures on AWS and drove automation in global, cross-functional teams.
+  </li>
 
 <h2 align="center">📈 My GitHub at a Glance</h2>
 <p align="center">
