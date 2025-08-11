@@ -148,7 +148,7 @@
   <a href="https://www.linkedin.com/in/marioseguradevops/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="[https://www.credly.com/users/mario-segura/badges](https://www.credly.com/users/mario-armando-segura-albarracin/badges#credly)">
+  <a href="https://www.credly.com/users/mario-armando-segura-albarracin/badges#credly">
     <img src="https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly"/>
   </a>
 </p>
