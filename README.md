@@ -81,29 +81,35 @@
 
 
    <li>
-    <b>PGD - Senior DevOps Engineer</b><br>
+    <b>Senior DevOps Engineer @ PGD (2025)</b><br>
     As a Senior DevOps Engineer, I streamline development workflows, automate infrastructure, and ensure reliable, scalable deployments to empower engineering teams..
   </li>
   
   ---
   
   <li>
-    <b>Java PL Developer @ Algar Tech</b><br>
-    Delivered robust enterprise solutions in Java, Spring Boot & PL/SQL for major telco clients.
+    <b>Senior DevOps Engineer @ Algar Tech / Amadeus (2024) </b><br>
+    Delivered robust infrastructure solutions in Azure cloud, using Terraform, multiple CI/CD tools & monitoring for ensuring reliability.
   </li>
 
 ---
 
    <li>
-    <b>Software Development Engineer II @ CSG</b><br>
+    <b>Software Development Engineer II @ CSG (2022)</b><br>
     Mastered serverless architectures on AWS and drove automation in global, cross-functional teams.
   </li>
  
-
+ ---
+  
+  <li>
+    <b>Java PL Developer @ Algar Tech / Claro (2021) </b><br>
+    Delivered robust enterprise solutions in Java, Spring Boot & PL/SQL for major telco clients.
+  </li>
+  
 ---
 
   <li>
-    <b>Pre-sales Engineer @ MTA DE COLOMBIA SAS</b><br>
+    <b>Pre-sales Engineer @ MTA DE COLOMBIA SAS (2020)</b><br>
     Engineered secure pre-sales apps and empowered business growth through technical expertise.
   </li>
 
@@ -111,7 +117,7 @@
 ---
 
   <li>
-    <b>Junior Development Analyst @ IOT TECNOLOGÍA</b><br>
+    <b>Junior Development Analyst @ IOT TECNOLOGÍA (2019)</b><br>
     Developed and maintained inventory and access solutions using Java and SQL.
   </li>
 </ul>
